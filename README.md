@@ -33,7 +33,7 @@
        <img src="https://skillicons.dev/icons?i=docker,linux,ansible,terraform,kubernetes,azure,jenkins,bash,git,gitlab&perline=4" /> 
   </td><td valign="top" width="25%">
   
-### Additionaly
+### Additionally
 <a href="https://github.com/bharateshwq">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=ps,pr,blender,arduino&perline=4" /> 
