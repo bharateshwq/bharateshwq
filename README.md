@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2bharaetshwq&countColor=%23263759&style=default" alt="visitor_badge">
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -73,10 +72,6 @@
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharateshwq" alt="bharateshwq" /></a> </p>
   
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 <!--
