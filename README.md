@@ -13,24 +13,30 @@
 ### Frontend  
 <a href="https://github.com/bharateshwq">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,css,threejs&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
         
-### Languages
+### Backend
 <a href="https://github.com/bharateshwq">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,maven&perline=4" /> 
 </div>
 </a>
 
 </td><td valign="top" width="25%">
   
-### Others
+### Operations
 <a href="https://github.com/bharateshwq">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=docker,linux,ansible,terraform,kubernetes,azure,jenkins,bash,git,gitlab&perline=4" /> 
+  </td><td valign="top" width="25%">
+  
+### Additionaly
+<a href="https://github.com/bharateshwq">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=ps,pr,blender,arduino&perline=4" /> 
 </div>
 </a>
 </td>
