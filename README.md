@@ -33,7 +33,7 @@
        <img src="https://skillicons.dev/icons?i=docker,linux,ansible,terraform,kubernetes,azure,jenkins,bash,git,gitlab&perline=4" /> 
   </td><td valign="top" width="25%">
   
-### Additionally
+### Others
 <a href="https://github.com/bharateshwq">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=ps,pr,blender,arduino&perline=4" /> 
@@ -45,7 +45,7 @@
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/bharatesh-k/" target="_blank"><img src="https://img.shields.io/badge/-Bharatesh%20K-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="[https://www.linkedin.com/in/bharatesh-k/](https://www.linkedin.com/in/bharatesh-k-41b93820a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-Bharatesh%20K-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:kbharatesh0@gmail.com"><img src="https://img.shields.io/badge/-kbharatesh0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/bharateshwq/" target="_blank"><img src="https://img.shields.io/badge/-Bharatesh%20K-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 
